@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unblocked Games</title>
+</head>
+<body>
+    <h1>Welcome to Unblocked Games</h1>
+
+    <!-- Embed an external game using its URL -->
+    <div class="game">
+        <h2>Cookie CLicker</h2>
+        <iframe src="https://sites.google.com/site/tyronesgamesez/cookie-clicker?authuser=0" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+</body>
+</html>
